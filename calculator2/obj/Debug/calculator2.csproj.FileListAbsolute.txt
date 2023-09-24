@@ -1,0 +1,11 @@
+C:\Users\hibikisora\source\repos\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\hibikisora\source\repos\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\hibikisora\source\repos\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.AssemblyReference.cache
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.cache
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\hibikisora\source\repos\calculator2\calculator2\obj\Debug\calculator2.pdb
